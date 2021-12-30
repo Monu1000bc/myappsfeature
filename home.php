@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>hii monu kumar</h1>
+    <h1>hii monu</h1>
     <h1><?php echo $_SESSION['email']; ?></h1>
     <a href="logout.php" class="" name="logout">logout</a>
 </body>
